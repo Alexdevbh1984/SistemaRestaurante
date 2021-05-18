@@ -1,2 +1,2 @@
-# SistemaRestaurante
- sistema
+# restaurante
+Projeto PHP, MySQL, Javascript
